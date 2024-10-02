@@ -2,8 +2,8 @@
 
 :root {
     --cor-principal: #000000;
-    --cor-secundaria: #284260;
-    --cor-destaque: #C92BFC;
+    --cor-secundaria: #0063d4;
+    --cor-destaque: #c8c6c9;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
-    font-weight: 700;
+    font-weight: 000000;
 }
 
 .lead, .btn-link {
