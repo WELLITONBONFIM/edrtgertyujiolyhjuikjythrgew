@@ -3,7 +3,7 @@
 :root {
     --cor-principal: #180d0d;
     --cor-secundaria: #000000;
-    --cor-destaque: #0e0a0b;
+    --cor-destaque: #c42f54;
 }
 
 body {
@@ -22,7 +22,7 @@ h1, h2, h5 {
 }
 
 a, .btn-link:hover {
-    color: var(--cor-principal)
+    color: var(--c42f54)
 }
 
 a:hover{
